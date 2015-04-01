@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Patrick Grey Personal Site
 subtitle:
 description:
 author: Patrick Grey
@@ -16,7 +16,7 @@ url: http://patrickgrey.co.uk
 root: /
 permalink: :year-:month-:day-:title.html
 permalink_defaults:
-  lang: en-gb
+  lang: en
 
 # Directory
 source_dir: source
