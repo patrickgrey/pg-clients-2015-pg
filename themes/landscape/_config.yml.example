@@ -12,11 +12,10 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://patrickgrey.co.uk
+url: http://yoursite.com
 root: /
-permalink: :year-:month-:day-:title.html
+permalink: :year/:month/:day/:title/
 permalink_defaults:
-  lang: en-gb
 
 # Directory
 source_dir: source
