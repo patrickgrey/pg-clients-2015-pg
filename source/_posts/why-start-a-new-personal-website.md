@@ -1,6 +1,5 @@
 title: Why start a new personal website?
 ---
-## 01 April 2015 - Why start a new personal website?
 
 ### wee-article
 
@@ -16,4 +15,4 @@ The purpose of my new site is to get more work by:
 
 * using the site as a platform to demo the processes and technologies that are required for many of today’s web development tasks.
 
-I will develop this site in public, iterating to add new features and blogging as I go, as long as minor things like work, life and beer don’t get in the way…
+I will develop this site in public, iterating to add new features and blogging as I go, as long as minor things like work, life and beer don’t get in the way.
