@@ -1,13 +1,16 @@
 title: Why start a new personal website?
+date: 2015/4/1 00:00:01
 ---
 
-### wee-article
+### wee-article 
 
 **strategy**
 
 A good date to start a new website…
 
 The old website helped me learn about responsive design and performance but it just didn’t DO much. I didn’t have goals for it other than being a place to display my previous work. Blogging was also a little clumsy to get online, deterring me from writing.
+
+<!-- more -->
 
 The purpose of my new site is to get more work by:
 

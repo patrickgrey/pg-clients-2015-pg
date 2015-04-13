@@ -21,6 +21,10 @@ The purpose of my new site is to get more work by:
 
 I will develop this site in public, iterating to add new features and blogging as I go, as long as minor things like work, life and beer don’t get in the way…
 
+
+
+
+
 ## 01 April 2015 - Iteration 0: The Plan!
 
 ### wee-article
@@ -69,6 +73,12 @@ For each iteration I want some high level goals broken down into small tasks tha
 
     * 0.4: Testing: [http://blog.codeship.com/casperjs-examples/](http://blog.codeship.com/casperjs-examples/) 
 
+
+
+
+
+
+
 ## 01 April 2015 - Task 0.1.0: Set up git repository
 
 ### task
@@ -88,6 +98,12 @@ git config --global credential.helper cache
 git config --global credential.username patrickgrey
 
 This adds default details to the C:\Users\MyLogin\.gitconfig file meaning I don’t have to type my username the whole time. I guess I could add password to the helper but I like to have a brake on my commits...
+
+
+
+
+
+
 
 ## 01 April 2015 - Task 0.2.0: Review static site generators
 
@@ -200,6 +216,13 @@ Shortlist (with very quick, and probably unfair, notes):
     * I tried in the past and prefered the extra flexibility Jekyll gave
 
 After a morning reviewing, I decided to go with Hexo. It is blog friendly, node.js and looks wide open for customisation.
+
+
+
+
+
+
+
 
 ## 01 April 2015 - Task 0.2.1: Set up Hexo Site
 
