@@ -1,5 +1,10 @@
 title: "Iteration 0: The Plan!"
+description: "Building in public: the plan behind the new website."
 date: 2015/4/1 00:00:02
+categories:
+- Planning
+tags:
+- Wee article
 ---
 
 For each iteration I want some high level goals broken down into small tasks that I can work on in my spare time, blogging about the more interesting ones. Here is iteration 0 - I doesn’t even result in a public website!!

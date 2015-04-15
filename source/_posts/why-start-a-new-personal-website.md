@@ -1,10 +1,11 @@
 title: Why start a new personal website?
+description: "Creating a new personal website to act as a platform to demonstrate my web development skills."
 date: 2015/4/1 00:00:01
+categories:
+- Strategy
+tags:
+- Wee article
 ---
-
-### wee-article 
-
-**strategy**
 
 A good date to start a new website…
 

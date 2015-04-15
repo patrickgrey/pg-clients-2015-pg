@@ -12,6 +12,7 @@ timezone:
 
 # Content
 excerpt_link: Read More
+full_post_count: 20
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -55,7 +56,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: Do MMM YYYY
 time_format: HH:mm:ss
 
 # Pagination
@@ -72,6 +73,12 @@ theme: patrickGrey
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Sidebar
+widgets:
+- categories
+- tags
+- tagcloud
 
 # SASS
 ## Docs: https://github.com/celsomiranda/hexo-renderer-bourbon

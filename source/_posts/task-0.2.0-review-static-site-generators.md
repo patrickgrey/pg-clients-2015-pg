@@ -1,5 +1,11 @@
 title: "Task 0.2.0: Review static site generators"
+description: "3 This is the description."
 date: 2015/4/1 00:00:04
+categories:
+- CMS
+- Hexo
+tags:
+- Wee article
 ---
 
 I’ve used Wordpress a fair bit but like the performance of static sites (and the cheap hosting!) So, having decided to go static, my first job was selecting a static site generator.

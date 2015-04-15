@@ -1,8 +1,12 @@
 title: "Task 0.1.0: Set up git repository"
+description: "Setting default values in the git bash console."
 date: 2015/4/1 00:00:03
+categories:
+- Version control
+- Git
+tags:
+- Code example
 ---
-
-**git**
 
 Set up config in git cli for the first time!!
 
