@@ -23,7 +23,7 @@ For each iteration I want some high level goals broken down into small tasks tha
 
         * Mobile first responsive
 
-        * High performance
+        * High performance`
 
         * Foundation for progressive enhancement.
 
@@ -42,6 +42,10 @@ For each iteration I want some high level goals broken down into small tasks tha
         * 0.2.1: Get basic site up
 
         * 0.2.2: Build basic template.
+        
+        * 0.2.3: BEM CSS.
+        
+        * 0.2.4: Add ARIA and other accessibility requirements.
 
     * 0.3: Add CI development flow
 

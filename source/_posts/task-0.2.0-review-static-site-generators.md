@@ -5,7 +5,7 @@ categories:
 - CMS
 - Hexo
 tags:
-- Wee article
+- Task
 ---
 
 I’ve used Wordpress a fair bit but like the performance of static sites (and the cheap hosting!) So, having decided to go static, my first job was selecting a static site generator.

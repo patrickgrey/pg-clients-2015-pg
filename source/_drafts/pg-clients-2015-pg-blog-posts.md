@@ -298,7 +298,7 @@ Using yeoman generator "generator-hexo-theme" to scaffold and play. Archives lin
 
 **Plugins:**
 
-WAnt to add SASS: [https://github.com/celsomiranda/hexo-renderer-bourbon](https://github.com/celsomiranda/hexo-renderer-bourbon)
+Want to add SASS: [https://github.com/celsomiranda/hexo-renderer-bourbon](https://github.com/celsomiranda/hexo-renderer-bourbon)
 
 <table>
   <tr>

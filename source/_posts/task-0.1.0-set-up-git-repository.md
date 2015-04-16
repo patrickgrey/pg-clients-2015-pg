@@ -5,6 +5,7 @@ categories:
 - Version control
 - Git
 tags:
+- Task
 - Code example
 ---
 
