@@ -7,7 +7,7 @@ tags:
 - Wee article
 ---
 
-For each iteration I want some high level goals broken down into small tasks that I can work on in my spare time, blogging about the more interesting ones. Here is iteration 0 - I doesn’t even result in a public website!!
+For each iteration I want some high level goals broken down into small tasks that I can work on in my spare time, blogging about the more interesting ones. This article will be updates as I develop.
 
 <!-- more -->
 
@@ -23,7 +23,7 @@ For each iteration I want some high level goals broken down into small tasks tha
 
         * Mobile first responsive
 
-        * High performance`
+        * High performance
 
         * Foundation for progressive enhancement.
 
@@ -43,14 +43,16 @@ For each iteration I want some high level goals broken down into small tasks tha
 
         * 0.2.2: Build basic template.
         
-        * 0.2.3: BEM CSS.
+    * 0.3.0: BEM CSS.
         
-        * 0.2.4: Add ARIA and other accessibility requirements.
+    * 0.4.0: Add ARIA and other accessibility requirements.
+    
+    * 0.5.0: Add design
 
-    * 0.3: Add CI development flow
+    * 0.6.0: Add CI development flow
 
         * [http://24ways.org/2014/developing-robust-deployment-procedures/](http://24ways.org/2014/developing-robust-deployment-procedures/)
 
             * Try alternative deployment techs
 
-    * 0.4: Testing: [http://blog.codeship.com/casperjs-examples/](http://blog.codeship.com/casperjs-examples/) 
+    * 0.7.0: Testing: [http://blog.codeship.com/casperjs-examples/](http://blog.codeship.com/casperjs-examples/) 

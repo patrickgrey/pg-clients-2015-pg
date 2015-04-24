@@ -9,14 +9,20 @@ tags:
 
 A good date to start a new website…
 
-The old website helped me learn about responsive design and performance but it just didn’t DO much. I didn’t have goals for it other than being a place to display my previous work. Blogging was also a little clumsy to get online, deterring me from writing.
+I'm redesigning my site to try and find a wider variety of client work.
+
+My old website helped me practice responsive design but it just didn't DO much. I didn’t have goals for it other than being a place to display my previous work. Blogging was also a little clumsy to get online, which deterred me from writing.
 
 <!-- more -->
 
-The purpose of my new site is to get more work by:
+Current client work doesn't always allow me to progress into areas that interest me.
 
-* raising my profile via (short, focussed) blogging and,
+Therefore, I aim for the new site to:
 
-* using the site as a platform to demo the processes and technologies that are required for many of today’s web development tasks.
+* raise my profile with more frequent, focussed writing and,
 
-I will develop this site in public, iterating to add new features and blogging as I go, as long as minor things like work, life and beer don’t get in the way.
+* act as a platform to demo what I have been working on in web development.
+
+I'll develop this site in public, iterating to add new features, trying out new technologies, designs and processes, and blogging as I go -  as long as minor things like paying work, life and beer don’t get in the way.
+
+As the [Chemical Brothers said](https://www.youtube.com/watch?v=tpKCqp9CALQ), "Here we go!"
