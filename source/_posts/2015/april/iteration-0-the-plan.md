@@ -48,6 +48,10 @@ For each iteration I want some high level goals broken down into small tasks tha
     * 0.4.0: Add ARIA and other accessibility requirements.
     
     * 0.5.0: Add design
+    
+        * Americana!
+        
+        * Get signwriting book again?
 
     * 0.6.0: Add CI development flow
 
